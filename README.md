@@ -1,2 +1,2 @@
 # aws-profile
-serverless personal site
+serverless personal profile site
